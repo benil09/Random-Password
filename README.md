@@ -1,0 +1,1 @@
+This is a simple javascript project which generates the random password using the different characters .
